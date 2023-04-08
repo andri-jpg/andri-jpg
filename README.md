@@ -59,18 +59,8 @@ Girlfriend: Kagami Chihiro ❤️.
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-    </a> 
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true" />
-    </a>
-  </div>
-</div>
+| ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andri-jpg&theme=github_dark&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ----- | ----- |
 
 
 
