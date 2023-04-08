@@ -5,10 +5,10 @@
 > neofetch
 ```
 
-<img align="left" src="img/chihiro.png" width="130px"/> 
+<img align="left" src="img/Chihiro.png" width="130px"/> 
 
 ```csharp
-andri@Desktop42Lab」
+andri@Desktop42Lab
 -------------------------------
 Username: Andri Lawrence.
 OS: Ubuntu 22.04.1 LTS on Windows 11 x86_64.
