@@ -59,10 +59,17 @@ Girlfriend: Kagami Chihiro ❤️.
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
 
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" class="left" /></a> 
+<div style="display: flex; justify-content: space-between;">
+  <div style="margin-right: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+    </a> 
+  </div>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true" />
+    </a>
+  </div>
 </div>
-<div align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true" class="right" /></a>
-</div>
+
 
