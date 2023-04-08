@@ -28,7 +28,9 @@ Girlfriend: Kagami Chihiro ❤️.
   <li> 🎮 I’m currently playing <b>Osu!</b> or <b>Code Vein</b></li>
   <li> 💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
 </ul>
+
 ### Things i use :
+
 <!-- Img.shield from : https://github.com/yashitanamdeo/yashitanamdeo -->
 <p>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
