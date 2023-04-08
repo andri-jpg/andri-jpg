@@ -60,8 +60,8 @@ Girlfriend: Kagami Chihiro ❤️.
 | ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true) |
 | ----- | ----- |
 
-<img align="right" src="https://66.media.tumblr.com/ae3ea54a194029ea4891c429c0cdbcd7/tumblr_noit1b8Fho1unbsixo1_500.gif" width="auto" height="220px"/> 
+<img align="right" src="https://66.media.tumblr.com/ae3ea54a194029ea4891c429c0cdbcd7/tumblr_noit1b8Fho1unbsixo1_500.gif" width="auto" height="210px"/> 
 
-<a href="https://discord.com/users/555756292338089997?theme=light"><img align="left" src="https://lanyard.kyrie25.me/api/555756292338089997" width="auto" height="220px"/> 
+<a href="https://discord.com/users/555756292338089997?theme=light"><img align="left" src="https://lanyard.kyrie25.me/api/555756292338089997" width="auto" height="210px"/> 
 
 
