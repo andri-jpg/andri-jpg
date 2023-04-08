@@ -22,6 +22,9 @@ Girlfriend: Kagami Chihiro ❤️.
 
 ```
 ### Hi there👋, I'm Andri
+<div align="right">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="540" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonightk&hide_border=true" class="center" /></a>
+</div>
 <ul>
   <li> 🏫 Statistics student at Indonesia Open University</li>
   <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning</b></li>
