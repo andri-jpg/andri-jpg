@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/Chihiro.png" width="350px"/> 
+<img align="left" src="img/Chihiro.png" width="352px"/> 
 
 ```csharp
 andri@Desktop42Lab
@@ -19,5 +19,5 @@ Memory : 297MiB / 15906MiB
 Hobbies: Cooking, Book, and Gaming.
 
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
