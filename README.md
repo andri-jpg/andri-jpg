@@ -17,10 +17,12 @@ CPU: Intel i5-4690 (4) @ 3.495GHz.
 GPU: NVIDIA GeForce GTX 1060 6GB.
 Memory : 297MiB / 15906MiB
 Learning : ML, DL, DS, CyberSecurity.
-Hobbies: Cooking, Book, Airsoft, and Gaming.
+Hobbies: Cooking, Book, Airsoft, Music, and Gaming.
 Girlfriend: Kagami Chihiro ❤️.
 
 ```
+### Hi there👋, I'm Andri
+[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997&idleMessage=:Sleeping.......)
 ### Things i use :
 <!-- Img.shield from : https://github.com/yashitanamdeo/yashitanamdeo -->
 <p>
