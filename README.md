@@ -14,9 +14,11 @@ Shell: bash 5.1.16
 Languages: C++, Python.
 Terminal: Windows Terminal.
 CPU: Intel i5-4690 (4) @ 3.495GHz.
-GPU: NVIDIA GeForce GTX 1060 6GB
+GPU: NVIDIA GeForce GTX 1060 6GB.
 Memory : 297MiB / 15906MiB
-Hobbies: Cooking, Book, and Gaming.
+Learning : ML, DL, DS, CyberSecurity.
+Hobbies: Cooking, Book, Airsoft, and Gaming.
+Loved one: Kagami Chihiro ❤️.
 
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&theme=tokyonight)
