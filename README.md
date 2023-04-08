@@ -60,9 +60,9 @@ Girlfriend: Kagami Chihiro ❤️.
 [![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" class="left" /></a> 
 </div>
 <div align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight&hide_border=true" class="right" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true" class="right" /></a>
 </div>
 
