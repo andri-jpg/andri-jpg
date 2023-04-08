@@ -22,18 +22,28 @@ Girlfriend: Kagami Chihiro ❤️.
 
 ```
 ### Hi there👋, I'm Andri
+<style>
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  li {
+    margin-bottom: 0;
+  }
+</style>
 <ul>
   <li>🏫 Statistics student at Indonesia Open University</li>
   <li>🌱 Currently learning about <b>CyberSecurity</b> and <b>Machine learning</b></li>
   <li>🎮 I’m currently playing <b>Osu!</b> or <b>Code Vein</b></li>
-  <li>💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
   <li style="display: flex; align-items: center;">
-    <span style="flex: 1;"> </span>
+    <span style="flex: 1;">💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</span>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="100" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+      <img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight&hide_border=true" />
     </a>
   </li>
 </ul>
+
 
 
 ### Things i use :
