@@ -22,7 +22,7 @@ Girlfriend: Kagami Chihiro ❤️.
 
 ```
 ### Hi there👋, I'm Andri
-[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?idleMessage=:Sleeping.......)
+[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark&idleMessage=Sleeping)
 ### Things i use :
 <!-- Img.shield from : https://github.com/yashitanamdeo/yashitanamdeo -->
 <p>
