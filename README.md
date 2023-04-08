@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/Chihiro.png" width="150px"/> 
+<img align="left" src="img/Chihiro.png" width="130px"/> 
 
 ```csharp
 andri@Desktop42Lab
@@ -18,7 +18,7 @@ GPU: NVIDIA GeForce GTX 1060 6GB.
 Memory : 297MiB / 15906MiB
 Learning : ML, DL, DS, CyberSecurity.
 Hobbies: Cooking, Book, Airsoft, and Gaming.
-Loved one: Kagami Chihiro ❤️.
+Girlfriend: Kagami Chihiro ❤️.
 
 ```
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&theme=tokyonight)
