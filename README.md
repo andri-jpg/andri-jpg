@@ -55,9 +55,14 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### Stats
+<h1 align="center">Stats</h1>
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Josh's github stats" class="left" /></a> 
+</div>
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="400" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight&hide_border=true" class="right" /></a>
 </div>
+
