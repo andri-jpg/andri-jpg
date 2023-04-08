@@ -7,7 +7,7 @@
 
 ```csharp
 andri@Desktop42Lab
--------------------------------
+---------------------------------------------------
 Username: Andri Lawrence.
 OS: Ubuntu 22.04.1 LTS on Windows 11 x86_64.
 Shell: bash 5.1.16
