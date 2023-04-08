@@ -22,7 +22,12 @@ Girlfriend: Kagami Chihiro ❤️.
 
 ```
 ### Hi there👋, I'm Andri
-[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
+<ul>
+  <li> 🏫 Statistics student at Indonesia Open University</li>
+  <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning and AI</b></li>
+  <li> 🎮 I’m currently playing <b>Osu!</b> or <b>Code Vein</b></li>
+  <li> 💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
+</ul>
 ### Things i use :
 <!-- Img.shield from : https://github.com/yashitanamdeo/yashitanamdeo -->
 <p>
@@ -46,6 +51,7 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
