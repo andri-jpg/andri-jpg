@@ -46,6 +46,8 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -57,7 +59,7 @@ Girlfriend: Kagami Chihiro ❤️.
 
 <h1 align="center">Stats</h1>
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true&layout=compact) |
 | ----- | ----- |
 
 <img align="right" src="https://66.media.tumblr.com/ae3ea54a194029ea4891c429c0cdbcd7/tumblr_noit1b8Fho1unbsixo1_500.gif" width="auto" height="210px"/> 
