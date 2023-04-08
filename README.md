@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<img align="left" src="img/Chihiro.png" width="358px"/> 
+<img align="left" src="img/Chihiro.png" width="150px"/> 
 
 ```csharp
 andri@Desktop42Lab
