@@ -62,6 +62,6 @@ Girlfriend: Kagami Chihiro ❤️.
 
 <img align="right" src="https://66.media.tumblr.com/ae3ea54a194029ea4891c429c0cdbcd7/tumblr_noit1b8Fho1unbsixo1_500.gif" width="400px" height="250px"/> 
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark)
+<img align="left" src="https://lanyard.kyrie25.me/api/555756292338089997)](https://discord.com/users/555756292338089997?theme=dark" width="400px" height="250px"/> 
 
 
