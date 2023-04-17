@@ -58,14 +58,11 @@ Girlfriend: Kagami Chihiro ❤️.
 </p>
 
 
-<img align="center" src="https://media.tenor.com/n3dRjZoWEE8AAAAC/lag-train.gif" width="auto" /> 
-
-<h1 align="center">Stats</h1>
-
-
 | ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true&layout=compact) |
 | ----- | ----- |
 
+
+<img align="center" src="https://media.tenor.com/n3dRjZoWEE8AAAAC/lag-train.gif" width="auto" /> 
 
 <!-- <a href="https://discord.com/users/555756292338089997?theme=light"><img align="center" src="https://lanyard.kyrie25.me/api/555756292338089997" width="auto" height="420px"/> 
  -->
