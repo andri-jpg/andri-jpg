@@ -57,9 +57,11 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-<h1 align="center">Stats</h1>
 
 <img align="center" src="https://media.tenor.com/n3dRjZoWEE8AAAAC/lag-train.gif" width="auto" /> 
+
+<h1 align="center">Stats</h1>
+
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true&layout=compact) |
 | ----- | ----- |
