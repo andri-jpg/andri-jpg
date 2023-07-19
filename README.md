@@ -58,7 +58,7 @@ Girlfriend: Kagami Chihiro ❤️.
 </p>
 
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=github_dark&hide_border=true&layout=compact) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&exclude_repo=lp_ml&theme=github_dark&hide_border=true&layout=compact) |
 | ----- | ----- |
 
 
