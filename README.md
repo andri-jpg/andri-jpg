@@ -26,7 +26,7 @@ Girlfriend: Kagami Chihiro ❤️.
 <ul>
   <li> 🏫 Statistics student at Indonesia Open University</li>
   <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning</b></li>
-  <li> 🎮 I’m currently playing <b>Osu!</b> or <b>Code Vein</b></li>
+  <li> 🎮 I’m currently playing <b>Osu!</b> or <b>StarRail</b></li>
   <li> 💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
 </ul>
 
