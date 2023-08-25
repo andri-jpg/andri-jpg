@@ -21,8 +21,10 @@ Hobbies: Cooking, Book, Airsoft, Music, and Gaming.
 Girlfriend: Kagami Chihiro ❤️.
 
 ```
-### Hi there👋, I'm Andri
 
+<img align="right" src="https://github.com/andri-jpg/andri-jpg/assets/91838310/3414b350-c82d-4a9c-8e48-593136f7b890" height="269px">
+
+### Hi there👋, I'm Andri
 <ul>
   <li> 🏫 Statistics student at Indonesia Open University</li>
   <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning</b></li>
@@ -45,26 +47,19 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-  <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
   <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
+### Stats :
 | ![Stats](https://github-readme-stats.vercel.app/api?username=andri-jpg&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true) | ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&exclude_repo=lp_ml&theme=github_dark&hide_border=true&layout=compact) |
 | ----- | ----- |
 
 
-
-
- <!-- <a href="https://discord.com/users/555756292338089997?theme=light"><img align="center" src="https://lanyard.kyrie25.me/api/555756292338089997" width="auto" height="420px"/> --!>
+<!-- <a href="https://discord.com/users/555756292338089997?theme=light"><img align="center" src="https://lanyard.kyrie25.me/api/555756292338089997" width="auto" height="420px"/> --!>
 
  
 
