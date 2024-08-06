@@ -11,7 +11,7 @@ andri@Desktop42Lab
 Username: Andri Lawrence.
 OS: Ubuntu 22.04.1 LTS on Windows 11 x86_64.
 Shell: bash 5.1.16
-Languages: C++, Python.
+Languages: C++, Python, PHP, Dart.
 Terminal: Windows Terminal.
 CPU: Intel i5-4690 (4) @ 3.495GHz.
 GPU: NVIDIA GeForce GTX 1060 6GB.
