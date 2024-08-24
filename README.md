@@ -22,13 +22,12 @@ Girlfriend: Kagami Chihiro ❤️.
 
 ```
 
-<img align="right" src="https://github.com/andri-jpg/andri-jpg/assets/91838310/3414b350-c82d-4a9c-8e48-593136f7b890" height="269px">
+<img align="right" src="img/needy-streamer-overload-fidget-spinner.gif" height="269px">
 
 ### Hi there👋, I'm Andri
 <ul>
   <li> 🏫 Statistics student at Indonesia Open University</li>
   <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning</b></li>
-  <li> 🎮 I’m currently playing <b>Osu!</b> or <b>StarRail</b></li>
   <li> 💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
 </ul>
 
