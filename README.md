@@ -28,7 +28,7 @@ Girlfriend: Kagami Chihiro ❤️.
 <ul>
   <li> 🏫 Statistics student at Indonesia Open University</li>
   <li> 🌱 Currently learning about <b>CyberSecurity</b> and <b> Machine learning</b></li>
-  <li> 💻 I'm looking for ML <b>Hackathons</b> to help me improve my skill</li>
+  <li> 💻 ???</li>
 </ul>
 
 ### Things i use :
