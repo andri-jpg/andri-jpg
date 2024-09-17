@@ -13,8 +13,8 @@ OS: Ubuntu 22.04.1 LTS on Windows 11 x86_64.
 Shell: bash 5.1.16
 Languages: C++, Python, PHP, Dart.
 Terminal: Windows Terminal.
-CPU: Intel i5-4690 (4) @ 3.495GHz.
-GPU: NVIDIA GeForce GTX 1060 6GB.
+CPU: AMD Ryzen 7 1700x (16) @ 3.4GHz.
+GPU: NVIDIA GeForce RTX 2060 6GB.
 Memory : 297MiB / 15906MiB
 Learning : ML, DL, DS, CyberSecurity.
 Hobbies: Cooking, Book, Airsoft, Music, and Gaming.
