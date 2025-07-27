@@ -51,7 +51,7 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p> 
 
 ### Stats :
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andri-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="gw" /> </p>
