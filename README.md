@@ -52,9 +52,9 @@ Girlfriend: Kagami Chihiro ❤️.
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p> 
-https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&theme=buefy&show_icons=true&hide_border=true&layout=compact
+
 ### Stats :
-<p align="left"> <img src="" alt="gw" /> </p>
+<p align="left"> <img src="https://streak-stats.demolab.com?user=andri-jpg&theme=buefy&hide_border=true" alt="gw" /> </p>
 
 | [<img width="100%" src="https://github-readme-stats.vercel.app/api?username=andri-jpg&theme=buefy&show_icons=true&hide_border=true&count_private=true">]() | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andri-jpg&exclude_repo=lp_ml&theme=github_dark&hide_border=true&layout=compact"> |
 | ----- | ----- |
